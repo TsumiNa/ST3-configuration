@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"CMake",
+		"CMakeEditor",
+		"CMakeSnippets",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter-Edge",
+		"IMESupport",
+		"LaTeXing",
+		"Markdown Preview",
+		"Monokai Extended",
+		"STProjectMaker",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Theme - Nexus"
+	]
+}
