@@ -3,10 +3,28 @@
         "debug": false,
         "delay": 0.25,
         "error_color": "D02000",
-        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Danish Royalty/Danish Royalty.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "clang": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "extra_flags": "",
+                "include_dirs": ["/usr/local/opt/qt5/include"]
+            },
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "builtins": "",
+                "excludes": [],
+                "ignore": "",
+                "jobs": "1",
+                "max-complexity": -1,
+                "max-line-length": null,
+                "select": ""
+            },
             "json": {
                 "@disable": false,
                 "args": [],

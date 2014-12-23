@@ -1,0 +1,6 @@
+{
+
+	"name" : "OpenGL",
+	"cmd": ["clang", "-O2", "-I/usr/local/include -L/usr/local/lib -lglew -lglfw3 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreFoundation", "$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+}
