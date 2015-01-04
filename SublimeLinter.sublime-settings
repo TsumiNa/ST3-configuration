@@ -8,11 +8,13 @@
         "lint_mode": "background",
         "linters": {
             "clang": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
                 "extra_flags": "",
-                "include_dirs": ["/usr/local/opt/qt5/include"]
+                "include_dirs": [
+                    "/usr/local/opt/qt5/include"
+                ]
             },
             "flake8": {
                 "@disable": false,
