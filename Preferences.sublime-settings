@@ -14,8 +14,8 @@
 	],
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false",
-	"wrap_width": 80,
+	"word_wrap": "true",
+	"wrap_width": 0,
 	// Set to true to insert spaces when tab is pressed
     "translate_tabs_to_spaces": true,
 
