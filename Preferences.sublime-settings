@@ -1,12 +1,14 @@
 {
 	"auto_complete": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-	"font_face": "Consolas",
-	"font_size": 15,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "WenQuanYi Micro Hei Mono",
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"DoxyDoc",
+		"CMakeSnippets"
 	],
 	"rulers":
 	[
@@ -15,8 +17,5 @@
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "true",
-	"wrap_width": 0,
-	// Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
-
+	"wrap_width": 0
 }
