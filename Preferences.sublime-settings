@@ -1,20 +1,31 @@
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-	"font_face": "WenQuanYi Micro Hei Mono",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "DejaVu Sans Mono",
 	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"DoxyDoc",
-		"CMakeSnippets"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_bold_tab": true,
+	"material_theme_small_tab": true,
+	"node_path": "/home/k-asuka/n/bin/node",
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		79
 	],
-	"theme": "Nexus.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "true",
 	"wrap_width": 0
