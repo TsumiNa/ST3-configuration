@@ -1,10 +1,14 @@
 {
+	"Seti_ClosedFolder_dots": true,
+	"Seti_blue_tab_label": true,
+	"Seti_no_bar_undertabs": true,
+	"Seti_tabs_small": true,
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"font_face": "DejaVu Sans Mono",
-	"font_size": 13,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -15,17 +19,15 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"material_theme_bold_tab": true,
-	"material_theme_small_tab": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"node_path": "/home/k-asuka/n/bin/node",
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		79
 	],
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "true",
 	"wrap_width": 0
